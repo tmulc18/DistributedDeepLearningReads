@@ -6,6 +6,7 @@ Compilation of literature related to distributed deep learning.  Pull requests w
 * [Accumulated Gradient Normalization](https://arxiv.org/abs/1710.02368)
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
 * [Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization](http://papers.nips.cc/paper/5751-asynchronous-parallel-stochastic-gradient-for-nonconvex-optimization.pdf)
+* [Asynchrony begets Momentum, with an Application to Deep Learning](https://arxiv.org/abs/1605.09774)
 * [Deep learning with Elastic Averaging SGD](https://arxiv.org/abs/1412.6651)
 * [Distributed Delayed Stochastic Optimization](https://arxiv.org/abs/1104.5525)
 * [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](https://arxiv.org/abs/1511.00175)
