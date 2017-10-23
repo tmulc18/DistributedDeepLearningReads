@@ -7,6 +7,7 @@ Compilation of literature related to distributed deep learning.  Pull requests w
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
 * [Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization](http://papers.nips.cc/paper/5751-asynchronous-parallel-stochastic-gradient-for-nonconvex-optimization.pdf)
 * [Deep learning with Elastic Averaging SGD](https://arxiv.org/abs/1412.6651)
+* [Distributed Delayed Stochastic Optimization](https://arxiv.org/abs/1104.5525)
 * [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](https://arxiv.org/abs/1511.00175)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
 * [How to scale distributed deep learning?](https://arxiv.org/abs/1611.04581)
@@ -15,8 +16,10 @@ Compilation of literature related to distributed deep learning.  Pull requests w
 * [More Effective Distributed ML via a Stale
 Synchronous Parallel Parameter Server](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1163&context=machine_learning)
 * [Omnivore: An Optimizer for Multi-device Deep Learning on CPUs and GPUs](https://arxiv.org/abs/1606.04487)
+* [On Parallelizability of Stochastic Gradient Descent for Speech DNNs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ParallelSGD-ICASSP2014-published.pdf)
 * [On Scalable Deep Learning and Parallelizing Gradient Descent](https://github.com/JoeriHermans/master-thesis/tree/master/thesis)
 * [One weird trick for parallelizing convolutional neural networks](https://arxiv.org/abs/1404.5997)
+* [Parallel training of DNNs with Natural Gradient and Parameter Averaging](https://arxiv.org/abs/1410.7455)
 * [Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines](https://arxiv.org/abs/1512.06216)
 * [PowerAI DDL](https://arxiv.org/abs/1708.02188)
 * [Revisiting Distributed Synchronous SGD](https://arxiv.org/pdf/1604.00981.pdf)
