@@ -20,4 +20,6 @@ Synchronous Parallel Parameter Server](http://repository.cmu.edu/cgi/viewcontent
 * [Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines](https://arxiv.org/abs/1512.06216)
 * [PowerAI DDL](https://arxiv.org/abs/1708.02188)
 * [Revisiting Distributed Synchronous SGD](https://arxiv.org/pdf/1604.00981.pdf)
+* [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://s3-us-west-2.amazonaws.com/amazon.jobs-public-documents/strom_interspeech2015.pdf)
 * [SparkNet: Training Deep Networks in Spark](https://arxiv.org/abs/1511.06051)
+* [Staleness-aware Async-SGD for Distributed Deep Learning](https://arxiv.org/abs/1511.05950)
