@@ -7,6 +7,8 @@ Compilation of literature related to distributed deep learning.  Pull requests w
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/pdf/1706.02677.pdf)
 * [Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization](http://papers.nips.cc/paper/5751-asynchronous-parallel-stochastic-gradient-for-nonconvex-optimization.pdf)
 * [Asynchrony begets Momentum, with an Application to Deep Learning](https://arxiv.org/abs/1605.09774)
+* [Bandwidth Optimal All-reduce Algorithms for Clusters of Workstations](http://www.cs.fsu.edu/~xyuan/paper/09jpdc.pdf)
+* [Bringing HPC Techniques to Deep Learning](http://research.baidu.com/bringing-hpc-techniques-deep-learning/)
 * [Deep learning with Elastic Averaging SGD](https://arxiv.org/abs/1412.6651)
 * [Distributed Delayed Stochastic Optimization](https://arxiv.org/abs/1104.5525)
 * [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](https://arxiv.org/abs/1511.00175)
@@ -14,6 +16,7 @@ Compilation of literature related to distributed deep learning.  Pull requests w
 * [How to scale distributed deep learning?](https://arxiv.org/abs/1611.04581)
 * [Joeri Hermans ADAG Blog](http://joerihermans.com/ramblings/distributed-deep-learning-part-1-an-introduction/)
 * [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+* [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
 * [More Effective Distributed ML via a Stale
 Synchronous Parallel Parameter Server](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1163&context=machine_learning)
 * [Omnivore: An Optimizer for Multi-device Deep Learning on CPUs and GPUs](https://arxiv.org/abs/1606.04487)
