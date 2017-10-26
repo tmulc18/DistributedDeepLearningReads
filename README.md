@@ -12,6 +12,7 @@ Compilation of literature related to distributed deep learning.  Pull requests w
 * [Deep learning with Elastic Averaging SGD](https://arxiv.org/abs/1412.6651)
 * [Distributed Delayed Stochastic Optimization](https://arxiv.org/abs/1104.5525)
 * [FireCaffe: near-linear acceleration of deep neural network training on compute clusters](https://arxiv.org/abs/1511.00175)
+* [Heterogeneity-aware Distributed Parameter Servers](https://ds3lab.org/wp-content/uploads/2017/07/sigmod2017_jiang.pdf)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
 * [How to scale distributed deep learning?](https://arxiv.org/abs/1611.04581)
 * [Joeri Hermans ADAG Blog](http://joerihermans.com/ramblings/distributed-deep-learning-part-1-an-introduction/)
