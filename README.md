@@ -33,3 +33,4 @@ Synchronous Parallel Parameter Server](http://repository.cmu.edu/cgi/viewcontent
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://s3-us-west-2.amazonaws.com/amazon.jobs-public-documents/strom_interspeech2015.pdf)
 * [SparkNet: Training Deep Networks in Spark](https://arxiv.org/abs/1511.06051)
 * [Staleness-aware Async-SGD for Distributed Deep Learning](https://arxiv.org/abs/1511.05950)
+* [TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning](https://arxiv.org/abs/1705.07878)
